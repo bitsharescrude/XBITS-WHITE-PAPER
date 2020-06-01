@@ -7,7 +7,7 @@ bitshares to  achieve its goals of an easier entry into the cryptocurrency marke
 
 initially meant for personal use however due to changes in the conditions to create the token the owner has decided to 
 
-make it a bitshares community token.  The owner is looking to create a new bitshares economy in his birth country Nigeria 
+make an ICO.  The owner is looking to create a new bitshares economy in his birth country Nigeria 
 
 and introduce Nigerians slowly into the amazing features of bitshares through this token. As with all UIA the token is 
 
