@@ -43,7 +43,7 @@ with an equivalent amount of XBITS.NGN (Minimum donation is 500BTS). If you wish
 
 vnc7 or XBITS account. once the amount is reached the asset will be created immediately by vnc7 and issued to XBITS for 
 
-distribution, the account owner is now a lifetime member so users who commit will be given back approximately 50% of their 
+distribution, users who commit will be given back approximately 50% of their 
 
 donations in BTS (the money is drained from the fee pool) as a form of buyback on the market, also the remaining vesting 
 
@@ -54,4 +54,11 @@ balance will also be given back to donors after the 90days vesting period has pa
 # Wallet 
 - Wallet(window): https://wallet.bitshares.org/   https://staging.bitshares.org/
 - Android Wallet:  www.PalmPay.io, bitsy wallet  btspp.app bitshares mobile wallet
+# Social
+- Telegram: https://t.me/joinchat/E6X-YU1UJeDbvyr-i0oEAQ
+- WhatsApp: 
+- facebook: crypto friendly channels
 
+# Disclaimer
+
+https://github.com/noblenobert/bitshares-naira-terms
