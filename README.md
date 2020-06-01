@@ -41,7 +41,7 @@ funds any support given would be appreciated by the owner. Also users who commit
 
 with an equivalent amount of XBITS.NGN (Minimum donation is 500BTS). If you wish to support this token send your BTS to 
 
-vnc7 or XBITS account. once the amount is reached the asset will be created immediately by vnc7 and issued to XBITS for 
+vnc7 or xbit.vnc7 account. once the amount is reached the asset will be created immediately by vnc7 and issued to xbits.vnc7 for 
 
 distribution, users who commit will be given back approximately 50% of their 
 
