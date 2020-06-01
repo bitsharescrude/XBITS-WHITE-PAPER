@@ -1,2 +1,1 @@
-# XBITS-WHITE-PAPER
-XBITS whitepaper
+# XBITS Whitepaper
