@@ -1,9 +1,9 @@
-# XBITS Whitepaper
-# Bitshares Naira "XBITS.NGN" Making P2P Transactions Easier for Nigerians
+# CRUDE Whitepaper
+# Bitshares Naira "CRUDE.NGN" Making P2P Transactions Easier for Nigerians
 
-XBITS.NGN makes P2P transactions faster, trustless and more secure. It uses the full merchant and HTLC capabilties of 
+CRUDE.NGN makes P2P transactions faster, trustless and more secure. It uses the full merchant and HTLC capabilties of 
 
-bitshares to  achieve its goals of an easier entry into the cryptocurrency market for Nigeiran users. XBITS.NGN was 
+bitshares to  achieve its goals of an easier entry into the cryptocurrency market for Nigeiran users. CRUDE.NGN was 
 
 initially meant for personal use however due to changes in the conditions to create the token the owner has decided to 
 
@@ -18,11 +18,11 @@ and fraud.
 # Specification
 
 - Algorithm: Graphene Tech (DPOS)
-- Name: XBITS.NGN
+- Name: Crude Naira
 - Ticker: Same
 - Supply: 10 trillion to 2d.p
 - P2P: Yes
-- Brand name: XBITS
+- Brand name: CRUDE
 - Platform: Bitshares
 # Central Authority
 - vnc7
