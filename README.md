@@ -58,6 +58,8 @@ balance will also be given back to donors after the 90days vesting period has pa
 - Telegram: https://t.me/joinchat/E6X-YU1UJeDbvyr-i0oEAQ
 - WhatsApp: 
 - facebook: crypto friendly channels
+# ASSET NAME CHANGE
+The asset brand name has been changed from XBITS to CRUDE
 
 # Disclaimer
 
