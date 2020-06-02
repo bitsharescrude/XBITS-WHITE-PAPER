@@ -35,19 +35,7 @@ Available on GitHub
 - Miscellaneous Fees 1000BTS
 - Total 49260BTS
 # Funding
-the account owner wishes to fund the project himself, however due to the time lag it would take to prepare the needed 
-
-funds any support given would be appreciated by the owner. Also users who commit funds to the project would be rewarded 
-
-with an equivalent amount of XBITS.NGN (Minimum donation is 500BTS). If you wish to support this token send your BTS to 
-
-vnc7 or xbit.vnc7 account. once the amount is reached the asset will be created immediately by vnc7 and issued to xbits.vnc7 for 
-
-distribution, users who commit will be given back approximately 50% of their 
-
-donations in BTS (the money is drained from the fee pool) as a form of buyback on the market, also the remaining vesting 
-
-balance will also be given back to donors after the 90days vesting period has passed.
+ICO is over creation fee funds have been sent back to the sponsor
 # Website:
 - Source code: https://github.com/noblenobert/bitshares-Naira, https://github.com/noblenobert/XBITS-HTLC, https://github.com/noblenobert/bitshares-Naira-test, https://github.com/noblenobert/XBITS-RECORD
 - Explorer: https://bts.ai https://wallet.bitshares.org/#/explorer/blocks
