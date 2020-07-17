@@ -15,8 +15,9 @@ limited (Semi-Custodial), however the account owner has set up certain principal
 
 and fraud.
 
+# Blockchain:
+- Bitshares
 # Specification
-
 - Algorithm: Graphene Tech (DPOS)
 - Name: Crude Naira
 - Ticker: Same
@@ -28,8 +29,6 @@ and fraud.
 - vnc7
 # Registration
 - wallet.bitshares.org
-# Code:
-Available on GitHub
 # Budget
 - asset creation fees 48260BTS
 - Miscellaneous Fees 1000BTS
@@ -37,15 +36,15 @@ Available on GitHub
 # Funding
 ICO is over creation fee funds have been sent back to the sponsor
 # Website:
-- Source code: https://github.com/noblenobert/bitshares-Naira, https://github.com/noblenobert/XBITS-HTLC, https://github.com/noblenobert/bitshares-Naira-test, https://github.com/noblenobert/XBITS-RECORD
+- https://github.com/noblenobert/bitshares-Naira, https://github.com/noblenobert/XBITS-HTLC, https://bitsharescrude.i.ng, https://data.bitsharescrude.i.ng
 - Explorer: https://bts.ai https://wallet.bitshares.org/#/explorer/blocks
 # Wallet 
-- Wallet(window): https://wallet.bitshares.org/   https://staging.bitshares.org/
-- Android Wallet:  www.PalmPay.io, bitsy wallet  btspp.app bitshares mobile wallet
+- Wallet(window): https://wallet.bitshares.org/   https://staging.bitshares.org/  https://ex.xbtsx.io
+- Android Wallet:  www.PalmPay.io, bitsy wallet  https://btspp.io bitshares mobile wallet
 # Social
-- Telegram: https://t.me/joinchat/E6X-YU1UJeDbvyr-i0oEAQ
-- WhatsApp: 
-- facebook: crypto friendly channels
+- Telegram: https://t.me/bitsharesnigeria2
+- WhatsApp: https://chat.whatsapp.com/GQDzP0tjrVtCUxR6LrlMw1
+- facebook: Bitshares Nigeria
 # ASSET NAME CHANGE
 The asset brand name has been changed from XBITS to CRUDE
 
